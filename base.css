@@ -128,7 +128,7 @@ body,html{
 	opacity:0.2;
 }
 #page1>.bg{
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p1_bg.jpg) no-repeat center center;
+	background:url(imgs/p1_bg.jpg) no-repeat center center;
 	background-size:100%;
 }
 #page1 .p1_denglong{
@@ -138,7 +138,7 @@ body,html{
 	right:0;
 	left:0;
 	margin:auto;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p1_lantern.png) no-repeat center bottom;
+	background:url(imgs/p1_lantern.png) no-repeat center bottom;
 	background-size:100%;
 	width:45vw;
 	height:71.2vh;
@@ -231,7 +231,7 @@ body,html{
 	left:0;
 	right:0;
 	bottom:9vh;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p1_imooc.png) no-repeat center center;
+	background:url(imgs/p1_imooc.png) no-repeat center center;
 	background-size:100%;
 	width:27.656vw;
 	height:18.63vh;
@@ -249,7 +249,7 @@ body,html{
 
 /*第二页区域*/
 #page2>.bg{
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p2_bg.jpg) no-repeat center center;
+	background:url(imgs/p2_bg.jpg) no-repeat center center;
 	-webkit-background-size:100%;
 	  -moz-background-size:100%;
 	   -ms-background-size:100%;
@@ -287,7 +287,7 @@ body,html{
 	right:0;
 	bottom:0;
 	margin:auto;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p2_circle_outer.png) no-repeat center center;
+	background:url(imgs/p2_circle_outer.png) no-repeat center center;
 	background-size:100%;
 	border-radius:50%;
 	width:59.375vw;
@@ -330,7 +330,7 @@ body,html{
 	right:0;
 	bottom:0;
 	margin:auto;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p2_circle_middle.png)no-repeat center center;
+	background:url(imgs/p2_circle_middle.png)no-repeat center center;
 	background-size:100%;
 	border-radius:50%;
 	width:45.625vw;
@@ -372,7 +372,7 @@ body,html{
 	right:0;
 	bottom:0;
 	margin:auto;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p2_circle_outer.png) no-repeat center center;
+	background:url(imgs/p2_circle_outer.png) no-repeat center center;
 	background-size:100%;
 	border-radius:50%;
 	width:39.9375vw;
@@ -413,7 +413,7 @@ body,html{
 	right:0;
 	bottom:0;
 	margin:auto;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p2_2016.png) no-repeat center center;
+	background:url(imgs/p2_2016.png) no-repeat center center;
 	background-size:100%;
 	width:27.5vw;
 	height:6.24vh;
@@ -446,7 +446,7 @@ body,html{
 }
 
 #page3>.bg{
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p3_bg.jpg) no-repeat center center;
+	background:url(imgs/p3_bg.jpg) no-repeat center center;
 	background-size:100%;
 }
 
@@ -458,7 +458,7 @@ body,html{
 	margin:auto;
     width:34.6875vw;
 	height:6.327vh;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p3_logo.png) no-repeat center center;
+	background:url(imgs/p3_logo.png) no-repeat center center;
 	background-size:100%;
 }
 #page3>.p3_title{
@@ -470,14 +470,14 @@ body,html{
 	width:48.125vw;
 	height:50vh;
 	margin:auto;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p3_title.png) no-repeat center center;
+	background:url(imgs/p3_title.png) no-repeat center center;
 	background-size:100%;
 }
 #page3>.p3_second{
 	position:absolute;
 	top:25.48vh;
 	left:3.75vw;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p3_couplet_second.png) no-repeat center center;
+	background:url(imgs/p3_couplet_second.png) no-repeat center center;
 	background-size:100%;
 	width:22.8125vw;
 	height:41.652vh;
@@ -486,7 +486,7 @@ body,html{
 	position:absolute;
 	top:25.48vh;
 	right:3.75vw;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p3_couplet_second.png) no-repeat center center;
+	background:url(imgs/p3_couplet_second.png) no-repeat center center;
 	background-size:100%;
 	width:22.8125vw;
 	height:41.652vh;
@@ -500,7 +500,7 @@ body,html{
     width:32vw;
 	height:32vw;
 	border-radius:50%;
-	background:url(%E5%88%87%E5%9B%BE%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/p3_blessing.png) no-repeat center center;
+	background:url(imgs/p3_blessing.png) no-repeat center center;
 	background-size:100%;
 	-webkit-animation:p3_blessing 2s linear infinite;
 	animation:p3_blessing 2s linear infinite;
